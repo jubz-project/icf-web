@@ -15,7 +15,8 @@ function initMap() {
     });
 
     var iconMarker = { 
-        url: 'http://dev.assessment-exam-adec.com/assets/images/map-marker.png'
+        // url: 'http://dev.assessment-exam-adec.com/assets/images/map-marker.png'
+        url: 'https://rjmsalamida.com/wp-content/uploads/2021/08/map-marker.png'
     };
 
     var CustomMapStyles = [
