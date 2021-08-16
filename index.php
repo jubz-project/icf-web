@@ -220,106 +220,106 @@
                 </div>
                 <div class="sect2-box-wrap">
                     <div class="sect2-box">
-                    <div class="sect2-item">
-                        <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
-                        <div class="sect2-item-inner">
-                            <img src="assets/images/industries/item1.png" class="sect2Img-item">
-                            <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
-                            <div class="sect2-item-title">
-                                <span>Consumer & financial</span>
+                        <div class="sect2-item">
+                            <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg">
+                            <div class="sect2-item-inner">
+                                <img src="assets/images/industries/item1.png" class="sect2Img-item">
+                                <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
+                                <div class="sect2-item-title">
+                                    <span>Consumer & financial</span>
+                                </div>
+                                <img src="assets/images/industries/sect2-line.png" class="sect2-line">
                             </div>
-                            <img src="assets/images/industries/sect2-line.png" class="sect2-line">
+                        </div>
+                        <div class="sect2-item">
+                            <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
+                            <div class="sect2-item-inner">
+                                <img src="assets/images/industries/item1.png" class="sect2Img-item">
+                                <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
+                                <div class="sect2-item-title">
+                                    <span>Consumer & financial</span>
+                                </div>
+                                <img src="assets/images/industries/sect2-line.png" class="sect2-line">
+                            </div>
+                        </div>
+                        <div class="sect2-item">
+                            <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
+                            <div class="sect2-item-inner">
+                                <img src="assets/images/industries/item1.png" class="sect2Img-item">
+                                <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
+                                <div class="sect2-item-title">
+                                    <span>Consumer & financial</span>
+                                </div>
+                                <img src="assets/images/industries/sect2-line.png" class="sect2-line">
+                            </div>
+                        </div>
+                        <div class="sect2-item">
+                            <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
+                            <div class="sect2-item-inner">
+                                <img src="assets/images/industries/item1.png" class="sect2Img-item">
+                                <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
+                                <div class="sect2-item-title">
+                                    <span>Consumer & financial</span>
+                                </div>
+                                <img src="assets/images/industries/sect2-line.png" class="sect2-line">
+                            </div>
+                        </div>
+                        <div class="sect2-item">
+                            <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
+                            <div class="sect2-item-inner">
+                                <img src="assets/images/industries/item1.png" class="sect2Img-item">
+                                <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
+                                <div class="sect2-item-title">
+                                    <span>Consumer & financial</span>
+                                </div>
+                                <img src="assets/images/industries/sect2-line.png" class="sect2-line">
+                            </div>
+                        </div>
+                        <div class="sect2-item">
+                            <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
+                            <div class="sect2-item-inner">
+                                <img src="assets/images/industries/item1.png" class="sect2Img-item">
+                                <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
+                                <div class="sect2-item-title">
+                                    <span>Consumer & financial</span>
+                                </div>
+                                <img src="assets/images/industries/sect2-line.png" class="sect2-line">
+                            </div>
+                        </div>
+                        <div class="sect2-item">
+                            <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
+                            <div class="sect2-item-inner">
+                                <img src="assets/images/industries/item1.png" class="sect2Img-item">
+                                <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
+                                <div class="sect2-item-title">
+                                    <span>Consumer & financial</span>
+                                </div>
+                                <img src="assets/images/industries/sect2-line.png" class="sect2-line">
+                            </div>
+                        </div>
+                        <div class="sect2-item">
+                            <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
+                            <div class="sect2-item-inner">
+                                <img src="assets/images/industries/item1.png" class="sect2Img-item">
+                                <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
+                                <div class="sect2-item-title">
+                                    <span>Consumer & financial</span>
+                                </div>
+                                <img src="assets/images/industries/sect2-line.png" class="sect2-line">
+                            </div>
+                        </div>
+                        <div class="sect2-item">
+                            <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
+                            <div class="sect2-item-inner">
+                                <img src="assets/images/industries/item1.png" class="sect2Img-item">
+                                <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
+                                <div class="sect2-item-title">
+                                    <span>Consumer & financial</span>
+                                </div>
+                                <img src="assets/images/industries/sect2-line.png" class="sect2-line">
+                            </div>
                         </div>
                     </div>
-                    <div class="sect2-item">
-                        <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
-                        <div class="sect2-item-inner">
-                            <img src="assets/images/industries/item1.png" class="sect2Img-item">
-                            <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
-                            <div class="sect2-item-title">
-                                <span>Consumer & financial</span>
-                            </div>
-                            <img src="assets/images/industries/sect2-line.png" class="sect2-line">
-                        </div>
-                    </div>
-                    <div class="sect2-item">
-                        <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
-                        <div class="sect2-item-inner">
-                            <img src="assets/images/industries/item1.png" class="sect2Img-item">
-                            <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
-                            <div class="sect2-item-title">
-                                <span>Consumer & financial</span>
-                            </div>
-                            <img src="assets/images/industries/sect2-line.png" class="sect2-line">
-                        </div>
-                    </div>
-                    <div class="sect2-item">
-                        <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
-                        <div class="sect2-item-inner">
-                            <img src="assets/images/industries/item1.png" class="sect2Img-item">
-                            <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
-                            <div class="sect2-item-title">
-                                <span>Consumer & financial</span>
-                            </div>
-                            <img src="assets/images/industries/sect2-line.png" class="sect2-line">
-                        </div>
-                    </div>
-                    <div class="sect2-item">
-                        <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
-                        <div class="sect2-item-inner">
-                            <img src="assets/images/industries/item1.png" class="sect2Img-item">
-                            <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
-                            <div class="sect2-item-title">
-                                <span>Consumer & financial</span>
-                            </div>
-                            <img src="assets/images/industries/sect2-line.png" class="sect2-line">
-                        </div>
-                    </div>
-                    <div class="sect2-item">
-                        <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
-                        <div class="sect2-item-inner">
-                            <img src="assets/images/industries/item1.png" class="sect2Img-item">
-                            <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
-                            <div class="sect2-item-title">
-                                <span>Consumer & financial</span>
-                            </div>
-                            <img src="assets/images/industries/sect2-line.png" class="sect2-line">
-                        </div>
-                    </div>
-                    <div class="sect2-item">
-                        <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
-                        <div class="sect2-item-inner">
-                            <img src="assets/images/industries/item1.png" class="sect2Img-item">
-                            <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
-                            <div class="sect2-item-title">
-                                <span>Consumer & financial</span>
-                            </div>
-                            <img src="assets/images/industries/sect2-line.png" class="sect2-line">
-                        </div>
-                    </div>
-                    <div class="sect2-item">
-                        <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
-                        <div class="sect2-item-inner">
-                            <img src="assets/images/industries/item1.png" class="sect2Img-item">
-                            <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
-                            <div class="sect2-item-title">
-                                <span>Consumer & financial</span>
-                            </div>
-                            <img src="assets/images/industries/sect2-line.png" class="sect2-line">
-                        </div>
-                    </div>
-                    <div class="sect2-item">
-                        <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
-                        <div class="sect2-item-inner">
-                            <img src="assets/images/industries/item1.png" class="sect2Img-item">
-                            <img src="assets/images/industries/item1-white.png" class="sect2Img-item-white">
-                            <div class="sect2-item-title">
-                                <span>Consumer & financial</span>
-                            </div>
-                            <img src="assets/images/industries/sect2-line.png" class="sect2-line">
-                        </div>
-                    </div>
-                </div>
                 </div>
                 <div class="sect2-spacer"></div>
                 <div class="section-title-wrap">
@@ -631,55 +631,67 @@
                 </div>
                 <div class="container-fluid news-events-wrapper">
                     <div class="row">
-                        <div class="col-md-3 news-item1">
-                            <div class="news-item-wrap">
-                                <div class="sect5-view-btn-wrap">
-                                    <button class="sect5-btn btn-warning-clr">News</button>
-                                </div>
-                                <h4>ICF Wins $200 Million Contract to Conduct Demographic and Health Surveys</h4>
-                                <span class="news-item-date">October 4, 2018</span>
-                                <p>Leaders from the U.S. Government, academia, and the larger cyber community will come together under one roof to discuss the questions facing cybersecurity.</p>
-                                <div class="sect5-view-wrap">
-                                    <a href="">View more ></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3 news-item2">
-                            <div class="news-item-wrap">
-                                <div class="sect5-view-btn-wrap">
-                                    <button class="sect5-btn btn-warning-clr">News</button>
-                                </div>
-                                <h4>ICF Wins $200 Million Contract to Conduct Demographic and Health Surveys</h4>
-                                <span class="news-item-date">October 4, 2018</span>
-                                <p>Leaders from the U.S. Government, academia, and the larger cyber community will come together under one roof to discuss the questions facing cybersecurity.</p>
-                                <div class="sect5-view-wrap">
-                                    <a href="">View more ></a>
+                        <div class="col-md-3 news-item">
+                            <div class="img-hover-zoom">
+                                <img src="assets/images/News/news-item1.jpg" class="sect3Img-bg">
+                                <div class="news-item-wrap">
+                                    <div class="sect5-view-btn-wrap">
+                                        <button class="sect5-btn btn-warning-clr">News</button>
+                                    </div>
+                                    <h4>ICF Acquires <br/>We are Vista</h4>
+                                    <span class="news-item-date">October 4, 2018</span>
+                                    <p>Highly Recognized Agency will Join ICF's Growing Global Marketing and Communications Practice</p>
+                                    <div class="sect5-view-wrap">
+                                        <a href="">View more ></a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3 news-item3">
-                            <div class="news-item-wrap">
-                                <div class="sect5-view-btn-wrap">
-                                    <button class="sect5-btn btn-info2-clr">Events</button>
-                                </div>
-                                <h4>ICF Wins $200 Million Contract to Conduct Demographic and Health Surveys</h4>
-                                <span class="news-item-date">October 4, 2018</span>
-                                <p>Leaders from the U.S. Government, academia, and the larger cyber community will come together under one roof to discuss the questions facing cybersecurity.</p>
-                                <div class="sect5-view-wrap">
-                                    <a href="">View more ></a>
+                        <div class="col-md-3 news-item">
+                            <div class="img-hover-zoom">
+                                <img src="assets/images/News/news-item2.jpg" class="sect3Img-bg">
+                                <div class="news-item-wrap">
+                                    <div class="sect5-view-btn-wrap">
+                                        <button class="sect5-btn btn-warning-clr">News</button>
+                                    </div>
+                                    <h4>ICF Wins $200 Million Contract to Conduct Demographic and Health Surveys</h4>
+                                    <span class="news-item-date">October 16, 2018</span>
+                                    <p>Company Will Continue to Implement USAID's Gold Standard Global Survey Research Program</p>
+                                    <div class="sect5-view-wrap">
+                                        <a href="">View more ></a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3 news-item4">
-                            <div class="news-item-wrap">
-                                <div class="sect5-view-btn-wrap">
-                                    <button class="sect5-btn btn-info2-clr">Events</button>
+                        <div class="col-md-3 news-item">
+                            <div class="img-hover-zoom">
+                                <img src="assets/images/News/news-item1.jpg" class="sect3Img-bg">
+                                <div class="news-item-wrap">
+                                    <div class="sect5-view-btn-wrap">
+                                        <button class="sect5-btn btn-info2-clr">Events</button>
+                                    </div>
+                                    <h4>2018 SOCIETY FOR RISK ANALYSIS ANNUAL MEETING</h4>
+                                    <span class="news-item-date">DECEMBER 2 - 6, 2018</span>
+                                    <p>This conference is the premier opportunity to discuss all avenues of risk analysis with other enthusiasts from around the globe.</p>
+                                    <div class="sect5-view-wrap">
+                                        <a href="">View more ></a>
+                                    </div>
                                 </div>
-                                <h4>ICF Wins $200 Million Contract to Conduct Demographic and Health Surveys</h4>
-                                <span class="news-item-date">October 4, 2018</span>
-                                <p>Leaders from the U.S. Government, academia, and the larger cyber community will come together under one roof to discuss the questions facing cybersecurity.</p>
-                                <div class="sect5-view-wrap">
-                                    <a href="">View more ></a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 news-item">
+                            <div class="img-hover-zoom">
+                                <img src="assets/images/News/news-item2.jpg" class="sect3Img-bg">
+                                <div class="news-item-wrap">
+                                    <div class="sect5-view-btn-wrap">
+                                        <button class="sect5-btn btn-info2-clr">Events</button>
+                                    </div>
+                                    <h4>2018<br/>CYBERSCI<br/>SYMPOSIUM</h4>
+                                    <span class="news-item-date">DECEMBER 6, 2018</span>
+                                    <p>Leaders from the U.S. Government, academia, and the larger cyber community will come together under one roof to discuss the questions facing cybersecurity.</p>
+                                    <div class="sect5-view-wrap">
+                                        <a href="">View more ></a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
