@@ -2,11 +2,23 @@ var vid = document.getElementById("myVideo");
 
 function playVid() {
     document.getElementById("playvid-icon").setAttribute("onclick","pauseVid()");
+    const headertitle = document.querySelector(".heading-title");
+    const herohrline = document.querySelector(".hero-hr-line");
+    const headingsubtitle = document.querySelector(".heading-subtitle");
+    headertitle.style.visibility = "hidden";
+    herohrline.style.visibility = "hidden";
+    headingsubtitle.style.visibility = "hidden";
     vid.play(); 
 } 
 
 function pauseVid() {
     document.getElementById("playvid-icon").setAttribute("onclick","playVid()");
+    const headertitle = document.querySelector(".heading-title");
+    const herohrline = document.querySelector(".hero-hr-line");
+    const headingsubtitle = document.querySelector(".heading-subtitle");
+    headertitle.style.visibility = "visible";
+    herohrline.style.visibility = "visible";
+    headingsubtitle.style.visibility = "visible";
     vid.pause(); 
 }
 
