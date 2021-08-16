@@ -219,7 +219,8 @@
                 <div class="section-title-wrap">   
                     <img src="assets/images/s-text.png" class="sl-text"><span class="section-2-title">Industries<img src="assets/images/s-text.png" class="sr-text">
                 </div>
-                <div class="sect2-box">
+                <div class="sect2-box-wrap">
+                    <div class="sect2-box">
                     <div class="sect2-item">
                         <img src="assets/images/industries/sect2-background-img.png" class="sect2Img-bg" style="width:100%">
                         <div class="sect2-item-inner">
@@ -319,6 +320,7 @@
                             <img src="assets/images/industries/sect2-line.png" class="sect2-line">
                         </div>
                     </div>
+                </div>
                 </div>
                 <div class="sect2-spacer"></div>
                 <div class="section-title-wrap">
