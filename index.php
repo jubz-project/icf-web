@@ -496,7 +496,7 @@
         <!-- Start Section 4 -->
         <section class="section-4" id="section-4">
             <div class="slideshow-container">
-                <div class="section-wrap mySlides">
+                <div class="section-wrap mySlides fades">
                     <div class="spacer-sec-top"></div>
                     <div class="sect4-title-wrap">
                         <img src="assets/images/s-text.png" class="sl-text"><span class="section-4-title">Case studies<img src="assets/images/s-text.png" class="sr-text"></span>
@@ -521,7 +521,7 @@
                     </div>
                 </div>
 
-                <div class="section-wrap mySlides">
+                <div class="section-wrap mySlides fades">
                     <div class="spacer-sec-top"></div>
                     <div class="sect4-title-wrap">
                         <img src="assets/images/s-text.png" class="sl-text"><span class="section-4-title">Case studies 2<img src="assets/images/s-text.png" class="sr-text"></span>
@@ -545,7 +545,7 @@
                         </div>     
                     </div>
                 </div>
-                <div class="section-wrap mySlides">
+                <div class="section-wrap mySlides fades">
                     <div class="spacer-sec-top"></div>
                     <div class="sect4-title-wrap">
                         <img src="assets/images/s-text.png" class="sl-text"><span class="section-4-title">Case studies 3<img src="assets/images/s-text.png" class="sr-text"></span>

@@ -724,7 +724,8 @@ img.nav-right-arrow {
     z-index: 999999;
 }
 
-.mySlides {display: none}
+.mySlides {display: none; transition: 1s;
+    left: 0;}
 
 .slideshow-container {
   max-width: 1200px;
@@ -732,19 +733,19 @@ img.nav-right-arrow {
   margin: auto;
 }
 
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
+.fades {
+  -webkit-animation-name: fades;
+  -webkit-animation-duration: 3.1s;
+  animation-name: fades;
+  animation-duration: 3.1s;
 }
 
-@-webkit-keyframes fade {
+@-webkit-keyframes fades {
   from {opacity: .4} 
   to {opacity: 1}
 }
 
-@keyframes fade {
+@keyframes fades {
   from {opacity: .4} 
   to {opacity: 1}
 }
