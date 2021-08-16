@@ -176,6 +176,10 @@ button, button:hover, button:focus {
     background-color: #f241a3;
 }
 
+.main {
+    position: relative;
+}
+
 
 /*-------------------------------------------------------------------------*/
 /* Header
@@ -459,6 +463,10 @@ img.nav-right-arrow {
 /* Content
 /*-------------------------------------------------------------------------*/
 /***************** Section 2 ******************/
+/*#section-2 {
+    margin-top: 9px;
+    border-top: 1px solid #3c5373;
+}*/
 .section-2 {
     background-color: #3c5373;
     background-image:url("../images/background-section2-1.png");
@@ -891,10 +899,12 @@ img.nav-right-arrow {
 ul.left-social-icons {
     padding-left: 45px;
     bottom:0;
-    position: absolute;
+    position: fixed;
     display: grid;
     gap: 19px;
     padding-bottom: 40px;
+    mix-blend-mode: difference;
+
 }
 
 .left-social-icons li {
@@ -903,11 +913,13 @@ ul.left-social-icons {
 }
 
 .left-social-icons li a i {
-    color: #0d507b;
+    color: rgb(255, 255, 0);
+    /*color: #0d507b;*/
 }
 
 .circle-section-icon-wrap {
-    position: absolute;
+    display: none;
+    position: fixed;
     top: 0;
     right: 0;
     padding-top: 70px;
@@ -915,7 +927,7 @@ ul.left-social-icons {
 }
 
 .right-circle-nav-wrap {
-    position: absolute;
+    position: fixed;
     top: 50%;
     right: 0;
     margin-top: -125px;
@@ -929,11 +941,20 @@ ul.right-circle-nav-icons {
 
 .right-circle-nav-icons li {
     list-style: none;
-    padding: 0;
+    padding: 0;   
+}
+
+.right-circle-nav-icons li a i {
+    font-size: 7.5px;
+    color: #a1a1a1;
+}
+
+#sect1-dot i {
+    color: #29ade0;
 }
 
 .page-section-nav-wrap {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     right: 0;
     padding-right: 48px;
@@ -1606,6 +1627,26 @@ img.logo-footer {
 
     .contactus-wrap {
         margin-right: 300px;
+    }
+
+    ul.left-social-icons {
+        padding-left: 15px;
+    }
+
+    .circle-section-icon-wrap {
+        padding-right: 15px;
+    }
+
+    .right-circle-nav-wrap {
+        padding-right: 36px;
+    }
+
+    .page-section-nav-wrap {
+        padding-right: 15px;
+    }
+
+    .page-section-nav-bottom-wrap {
+        padding-right: 15px;
     }
 }
 

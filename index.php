@@ -160,7 +160,7 @@
         </div>
         <!-- Finish Hero Image -->
 
-        <ul class="left-social-icons">      
+        <!-- <ul class="left-social-icons">      
             <li>
                 <a href=""><i class="fab fa-facebook-f"></i></a>
             </li>
@@ -198,7 +198,7 @@
         </div>
         <div class="page-section-nav-wrap">
             <a href="#section-2"><img src="assets/images/page-down-blue-arrow.png"></a>
-        </div>
+        </div> -->
 
 
 
@@ -207,7 +207,6 @@
     <!-- Finish Header -->
 
     <!-- Start Content -->
-    <content>
 
         <!-- Start Section 2 -->
         <section class="section-2" id="section-2">
@@ -385,7 +384,7 @@
                 </div>
                 <div class="sect2-bottom-spacer"></div>
             </div>
-            <ul class="left-social-icons">
+            <!-- <ul class="left-social-icons">
                 <li>
                     <a href=""><img src="assets/images/Social-media/white/fb-icon-white.png"></a>
                 </li>
@@ -426,7 +425,7 @@
             </div>
             <div class="page-section-nav-wrap">
                 <a href="#section-3"><img src="assets/images/page-down-arrow.png"></a>
-            </div>
+            </div> -->
         </section>
         <!-- Finish Section 2 -->
 
@@ -450,7 +449,7 @@
                     <a href=""><img src="assets/images/sect3-chart-1.png"></a>
                 </div>          
             </div>
-            <ul class="left-social-icons">      
+            <!-- <ul class="left-social-icons">      
                 <li>
                     <a href=""><i class="fab fa-facebook-f"></i></a>
                 </li>
@@ -491,7 +490,7 @@
             </div>
             <div class="page-section-nav-wrap">
                 <a href="#section-4"><img src="assets/images/page-down-blue-arrow.png"></a>
-            </div>
+            </div> -->
         </section>
         <!-- Finish Section 3 -->
 
@@ -578,7 +577,7 @@
                     <a href="javascript:void(0)" onclick="plusSlides(1)"><img src="assets/images/right-light-blue-arrow.png"></a>
                 </div>
             </div>
-            <ul class="left-social-icons">      
+            <!-- <ul class="left-social-icons">      
                 <li>
                     <a href=""><i class="fab fa-facebook-f"></i></a>
                 </li>
@@ -619,7 +618,7 @@
             </div>
             <div class="page-section-nav-wrap">
                 <a href="#section-5"><img src="assets/images/page-down-blue-arrow.png"></a>
-            </div>
+            </div> -->
         </section>
         <!-- Finish Section 4 -->
 
@@ -690,7 +689,7 @@
                     <button class="sect5-btn-bottom btn-info-clr">View all news & events <img src="assets/images/view-right-arrow.png"></button>
                 </div>
             </div>
-            <ul class="left-social-icons">
+            <!-- <ul class="left-social-icons">
                 <li>
                     <a href=""><img src="assets/images/Social-media/white/fb-icon-white.png"></a>
                 </li>
@@ -731,7 +730,7 @@
             </div>
             <div class="page-section-nav-wrap">
                 <a href="#section-6"><img src="assets/images/page-down-arrow.png"></a>
-            </div>
+            </div> -->
         </section>
         <!-- Finish Section 5 -->
 
@@ -784,7 +783,7 @@
                     </div>         
                 </div>
             </div>
-            <div class="circle-section-icon-wrap">
+            <!-- <div class="circle-section-icon-wrap">
                 <a href=""><img src="assets/images/circle-section-icon.png"></a>
             </div>
             <div class="right-circle-nav-wrap">       
@@ -808,11 +807,10 @@
                         <a href="#section-6"><img src="assets/images/dotted-blue.png"></a>
                     </li>
                 </ul>
-            </div>
+            </div> -->
         </section>
         <!-- Finish Section 6 -->
 
-    </content>
     <!-- Finish Content -->
 
     <!-- Start Footer -->
@@ -875,11 +873,56 @@
             </div>
             
         </div>
-        <div class="page-section-nav-bottom-wrap">
+        <div class="page-section-nav-bottom-wrap" onclick="pageUpArrow()">
             <a href="#section-1"><img src="assets/images/page-up-arrow.png"></a>
         </div>
     </footer>
     <!-- Finish Footer -->
+
+    <div class="float-icons">
+        <ul class="left-social-icons">      
+            <li>
+                <a href=""><i class="fab fa-facebook-f"></i></a>
+            </li>
+            <li>
+                <a href=""><i class="fab fa-twitter"></i></a>
+            </li>
+            <li>
+                <a href=""><i class="fab fa-instagram"></i></a>
+            </li>
+            <li>
+                <a href=""><i class="fab fa-linkedin"></i></a>
+            </li>
+        </ul>
+        <div class="circle-section-icon-wrap">
+            <a href=""><img src="assets/images/circle-section-icon.png"></a>
+        </div>
+        <div class="right-circle-nav-wrap">       
+            <ul class="right-circle-nav-icons" id="sect-dot">
+                <li>
+                    <a href="#section-1" id="sect1-dot"><i class="fas fa-circle"></i></a>
+                </li>
+                <li>
+                    <a href="#section-2" id="sect2-dot"><i class="fas fa-circle"></i></a>
+                </li>
+                <li>
+                    <a href="#section-3" id="sect3-dot"><i class="fas fa-circle"></i></a>
+                </li>
+                <li>
+                    <a href="#section-4" id="sect4-dot"><i class="fas fa-circle"></i></a>
+                </li>
+                <li>
+                    <a href="#section-5" id="sect5-dot"><i class="fas fa-circle"></i></a>
+                </li>
+                <li>
+                    <a href="#section-6" id="sect6-dot"><i class="fas fa-circle"></i></a>
+                </li>
+            </ul>
+        </div>
+        <div class="page-section-nav-wrap" id="page-section-nav-wrap">
+            <a href="#section-2"><img src="assets/images/page-down-blue-arrow.png"></a>
+        </div> 
+    </div>
 
 </div>
 <!-- Finish Main -->
