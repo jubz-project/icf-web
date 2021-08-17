@@ -444,10 +444,132 @@
                             <p>ICF (NASDAQ:ICFI) is a leading provider of professional services and technology-based solutions to government and commercial clients.</p>
                         </div>           
                     </div> 
-                </div> 
-                <div class="sect3-chart-wrap">
-                    <a href=""><img src="assets/images/sect3-chart-1.png"></a>
-                </div>          
+                </div>
+                <div class="sect3-chart-table-boxes">
+                    <div class="sect3-chart-wrap">
+                        <a href=""><img src="assets/images/sect3-chart.png"></a>
+                    </div>
+                    <div class="stock-info-wrap">
+                        <div class="stock-info-sub-wrapper"> 
+                            <span class="stock-info-title">ICFI (Common Stock)</span><table class="info-list-table">
+                                <thead>
+                                    <tr class="stock-info">
+                                        <th>Exchange</th>
+                                        <th>Price</th>
+                                        <th>Change (%)</th>
+                                        <th>Volume</th>
+                                        <th>52 Week High</th>
+                                        <th>52 Week Low</th>
+                                        <th>Market Cap</th>
+                                        <th>PE Ratio</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td data-colname="Exchange"><strong>NASDAQ</strong></td>
+                                        <td data-colname="Price">$74.18</td>
+                                        <td data-colname="Change (%)"><span class="color-1">+2.24 (+3.11%)</span></td>
+                                        <td data-colname="Volume">147,654</td>
+                                        <td data-colname="52 Week High">$82.25</td>
+                                        <td data-colname="52 Week Low">$50.10</td>
+                                        <td data-colname="Market Cap">$1,389,237,136.56</td>
+                                        <td data-colname="PE Ratio">$19.86</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <span class="info-table-bottom">Data as of 11/12/18 4:00 PM EST</span>
+                            <div class="sect3-view-wrap">
+                                <a href="">View more ></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sec-filing-wrap">
+                        <div class="sec-filing-sub-wrapper">  
+                            <table class="info-list-table">
+                                <thead>
+                                    <tr class="tbl-inline-block">
+                                        <th>Date</th>
+                                        <th>Form</th>
+                                        <th>Description</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="tbl-inline-block">
+                                        <td data-colname="Date">11/02/18</td>
+                                        <td data-colname="Form"><span class="color-1">10-Q</span></td>
+                                        <td data-colname="Description">Quarterly report which provides a continuing view of a company's financial position</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div class="sect3-view-wrap">
+                                <a href="">View more ></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="recent-news-wrap">
+                        <div class="recent-news-sub-wrapper">  
+                            <table class="info-list-table">
+                                <thead>
+                                    <tr class="tbl-inline-block">
+                                        <th>Date</th>
+                                        <th>Title</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="tbl-inline-block">
+                                        <td data-colname="Date">11/01/18</td>
+                                        <td data-colname="Title"><span class="color-1">ICF Reports Third<br/>Quarter 2018 Results</span></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div class="sect3-view-wrap">
+                                <a href="">View more ></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="upcoming-events-wrap">
+                        <div class="upcoming-events-sub-wrapper">  
+                            <table class="info-list-table">
+                                <thead>
+                                    <tr class="tbl-inline-block">
+                                        <th>Date</th>
+                                        <th>Title</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="tbl-inline-block">
+                                        <td data-colname="Date">11/01/18 4:30 PM EDT</td>
+                                        <td data-colname="Title"><span class="color-1">Q3 2018 ICF Earnings Conference Call </span></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div class="sect3-view-wrap">
+                                <a href="">View more ></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="recent-webcasts-wrap">
+                        <div class="recent-webcasts-sub-wrapper">  
+                            <table class="info-list-table">
+                                <thead>
+                                    <tr class="tbl-inline-block">
+                                        <th>Date</th>
+                                        <th>Title</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="tbl-inline-block">
+                                        <td data-colname="Date">11/01/18</td>
+                                        <td data-colname="Title"><span class="color-1">ICF Investor Presentation</span></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div class="sect3-view-wrap">
+                                <a href="">View more ></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>      
             </div>
             <!-- <ul class="left-social-icons">      
                 <li>
