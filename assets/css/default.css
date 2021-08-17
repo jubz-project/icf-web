@@ -642,6 +642,7 @@ img.nav-right-arrow {
     text-align: center;
     padding: 25px 0 200px 0;
     z-index: 999999;
+    clear: both;
 }
 
 .sect3-chart-wrap img {
@@ -738,14 +739,16 @@ tr {
 }
 
 .sect3-view-wrap {
+    position: relative;
+    clear: both;
     width: 100%;
     padding-top: 7.5px;
     text-align: right;
     padding-right: 21px;
+    z-index: 9999999999;
 }
 
 .sect3-view-wrap a {
-    
     color: #e9188c;
     text-transform: uppercase;
     font-weight: bold;
