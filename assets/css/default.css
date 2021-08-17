@@ -1984,8 +1984,10 @@ img.logo-footer {
         padding-left: unset;
     }
 
+
     .sect3-chart-wrap {
         padding-bottom: 30px;
+        z-index: unset;
     }
 
     .recent-webcasts-wrap {
@@ -2006,6 +2008,7 @@ img.logo-footer {
 
     .sect3-view-wrap {
         padding-right: 0!important;
+        z-index: unset;
     }
 
     .info-list-table thead td, .info-list-table thead th,
