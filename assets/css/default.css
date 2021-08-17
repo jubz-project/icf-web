@@ -1208,7 +1208,7 @@ ul.left-social-icons {
     display: grid;
     gap: 19px;
     padding-bottom: 40px;
-    mix-blend-mode: difference;
+    /*mix-blend-mode: difference;*/
 
 }
 
@@ -1218,8 +1218,8 @@ ul.left-social-icons {
 }
 
 .left-social-icons li a i {
-    color: rgb(255, 255, 0);
-    /*color: #0d507b;*/
+    /*color: rgb(255, 255, 0);*/
+    color: #0d507b;
 }
 
 .circle-section-icon-wrap {
@@ -2235,6 +2235,10 @@ img.logo-footer {
     .contactus-wrap {
         margin-right: 390px;
     }
+
+    .news-item-wrap {
+        padding: 15px!important;
+    }
 }
 
 @media only screen and (max-width: 824px) {
@@ -2275,6 +2279,7 @@ img.logo-footer {
     }
 
     .news-item-wrap {
+        padding-top: 180px!important;
         padding-right: 15px;
         padding-left: 15px;
         max-width: 250px;

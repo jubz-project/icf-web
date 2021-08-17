@@ -131,6 +131,22 @@ $.fn.isOnScreenSocial = function () {
     return (!(viewport.right < bounds.left || viewport.left > bounds.right || viewport.bottom < bounds.top || viewport.top > bounds.bottom));
 };
 
+$.fn.isOnScreenSocialIcons = function () {
+    var win = $(window);
+    var viewport = {
+        top: win.scrollTop(),
+        left: win.scrollLeft()
+    };
+    viewport.right = viewport.left + win.width();
+    viewport.bottom = viewport.top + win.height();
+    var bounds = this.offset();
+    var margintop = this.outerHeight() - 700;
+
+    bounds.right = bounds.left + this.outerWidth();
+    bounds.bottom = bounds.top + margintop;
+    return (!(viewport.right < bounds.left || viewport.left > bounds.right || viewport.bottom < bounds.top || viewport.top > bounds.bottom));
+};
+
 $.fn.isOnScreenDot = function () {
     var win = $(window);
     var viewport = {
@@ -183,6 +199,18 @@ $(window).scroll(function () {
     } else {
         $('.left-social-icons').show();
         $('.page-section-nav-wrap').show();
+    }
+
+    if ($('#section-1').isOnScreenSocialIcons() == true) {
+        $(".left-social-icons li a i").css("color", "#0d507b");
+    } else if($('#section-2').isOnScreenSocialIcons() == true) {
+        $(".left-social-icons li a i").css("color", "#fff");
+    } else if($('#section-3').isOnScreenSocialIcons() == true) {
+        $(".left-social-icons li a i").css("color", "#0d507b");
+    } else if($('#section-4').isOnScreenSocialIcons() == true) {
+        $(".left-social-icons li a i").css("color", "#0d507b");
+    } else if($('#section-5').isOnScreenSocialIcons() == true) {
+        $(".left-social-icons li a i").css("color", "#fff");
     }
 
     if ($('#section-1').isOnScreenDot() == true) {
